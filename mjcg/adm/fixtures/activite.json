@@ -1,0 +1,110 @@
+[
+    {
+        "model": "adm.activite",
+        "pk": 1,
+        "fields": {
+            "nom": "BIBLIOTHEQUE"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 2,
+        "fields": {
+            "nom": "JUDO"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 3,
+        "fields": {
+            "nom": "GYMNASTIQUE RYTHMIQUE"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 4,
+        "fields": {
+            "nom": "GYM TONIC / STEP"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 5,
+        "fields": {
+            "nom": "BADMINTON ENFANTS"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 6,
+        "fields": {
+            "nom": "ZUMBA"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 7,
+        "fields": {
+            "nom": "QI GONG"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 8,
+        "fields": {
+            "nom": "PEINTURE SUR SOIE"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 9,
+        "fields": {
+            "nom": "ATELIER TERRE"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 10,
+        "fields": {
+            "nom": "COMPAGNIE DU RIED'EAU ( THEATRE )"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 11,
+        "fields": {
+            "nom": "TEMPS' DANSE"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 12,
+        "fields": {
+            "nom": "CLUB PHOTO ( Les déclencheurs )"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 13,
+        "fields": {
+            "nom": "TRIMATRICI"
+        }
+    },
+    {
+        "model": "adm.activite",
+        "pk": 14,
+        "fields": {
+            "nom": "MERCREDIS RECREATIFS"
+        }
+    },
+    {
+        "model": "adm.tarif",
+        "pk": 1,
+        "fields": {
+            "activite_id": 1,
+            "nom": "par an, individuel",
+            "annee": 2018,
+            "montant": 5
+        }
+    }
+]
